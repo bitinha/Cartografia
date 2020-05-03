@@ -1,7 +1,7 @@
 # Taxa de Recuperação e Mortalidade de COVID-19
 
 Visualização, a nível mundial, da taxa de recuperação e mortalidade do COVID-19 em cada país tendo em conta os dados reportados e 
-extraídos de: https://github.com/CSSEGISandData/COVID-19).
+extraídos de: https://github.com/CSSEGISandData/COVID-19.
 Esta análise consiste na produção de mapas e gráficos num Jupyter Notebook através da utilização das
 ferramentas QGIS, Pandas e Matplotlib.
 
